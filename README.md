@@ -32,6 +32,14 @@ hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.  
 MacBook-Pro-de-Pia:labex piapandelakis$
 
-*Tu viens de créer une origine mais je ne suis pas sur que tu ais récupérer le readme de github ???*
+*Tu viens de créer une origine mais je ne suis pas sur que tu ais récupéré le readme de github ???*
 *Il te dit donc de faire un git pull pour récupérer d'abord le readme pour pouvoir ensuite pousser sur github*
-*Le truc c'est de gérer les conflits sur ta machine et pas sur le dépôt distant, si tu envoies sans avoir récupérer le dépot distant tu vas mettre des conflits sur le dépot distant*
+*Le truc c'est de gérer les conflits sur ta machine et pas sur le dépôt distant, si tu envoies sans avoir récupéré le dépot distant tu vas mettre des conflits sur le dépot distant (on ne veut pas ça)*
+
+##Solution dhébergement##
+https://github.com/walutisme/grav-test
+
+On peut synchroniser Dropbox avec un hérbergement Heroku. Heroku permet de faire tourner du PHP. Dropbox de synchroniser les fichiers de contenu.  
+On pourrait donc facilement gérer le génération du site.
+
+A tenter
