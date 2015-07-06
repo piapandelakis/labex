@@ -30,4 +30,8 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes  
 hint: (e.g., 'git pull ...') before pushing again.  
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.  
-MacBook-Pro-de-Pia:labex piapandelakis$  
+MacBook-Pro-de-Pia:labex piapandelakis$
+
+*Tu viens de créer une origine mais je ne suis pas sur que tu ais récupérer le readme de github ???*
+*Il te dit donc de faire un git pull pour récupérer d'abord le readme pour pouvoir ensuite pousser sur github*
+*Le truc c'est de gérer les conflits sur ta machine et pas sur le dépôt distant, si tu envoies sans avoir récupérer le dépot distant tu vas mettre des conflits sur le dépot distant*
